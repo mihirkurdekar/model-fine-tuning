@@ -1,0 +1,36 @@
+{"prompt": "Classify the following review as positive or negative: 'I loved this movie, it was fantastic!'", "completion": "positive"}
+{"prompt": "Classify the following review as positive or negative: 'The product was disappointing.'", "completion": "negative"}
+{"prompt": "Classify the following review as positive or negative: 'Service was quick and friendly.'", "completion": "positive"}
+{"prompt": "Classify the following review as positive or negative: 'I will never buy from this store again.'", "completion": "negative"}
+{"prompt": "Classify the following review as positive or negative: 'The food was delicious and the atmosphere was great.'", "completion": "positive"}
+{"prompt": "Classify the following review as positive or negative: 'My order arrived late and was incorrect.'", "completion": "negative"}
+{"prompt": "Review 107: I loved this product, it was amazing!", "completion": "positive"}
+{"prompt": "Review 108: The service was terrible.", "completion": "negative"}
+{"prompt": "Review 109: The food was okay, but the service was slow.", "completion": "negative"}
+{"prompt": "Review 110: I will definitely return to this store.", "completion": "positive"}
+{"prompt": "Review 111: The product arrived on time and in good condition.", "completion": "positive"}
+{"prompt": "Review 112: The app crashes frequently.", "completion": "negative"}
+{"prompt": "Review 113: I enjoyed the concert, it was fantastic!", "completion": "positive"}
+{"prompt": "Review 114: The product is defective and needs to be replaced.", "completion": "negative"}
+{"prompt": "Review 115: The customer service was helpful and resolved my issue quickly.", "completion": "positive"}
+{"prompt": "Review 116: I will not use this service again.", "completion": "negative"}
+{"prompt": "Review 117: I loved this product, it was amazing!", "completion": "positive"}
+{"prompt": "Review 118: The service was terrible.", "completion": "negative"}
+{"prompt": "Review 119: The food was okay, but the service was slow.", "completion": "negative"}
+{"prompt": "Review 120: I will definitely return to this store.", "completion": "positive"}
+{"prompt": "Review 121: The product arrived on time and in good condition.", "completion": "positive"}
+{"prompt": "Review 122: The app crashes frequently.", "completion": "negative"}
+{"prompt": "Review 123: I enjoyed the concert, it was fantastic!", "completion": "positive"}
+{"prompt": "Review 124: The product is defective and needs to be replaced.", "completion": "negative"}
+{"prompt": "Review 125: The customer service was helpful and resolved my issue quickly.", "completion": "positive"}
+{"prompt": "Review 126: I will not use this service again.", "completion": "negative"}
+{"prompt": "Review 127: I loved this product, it was amazing!", "completion": "positive"}
+{"prompt": "Review 128: The service was terrible.", "completion": "negative"}
+{"prompt": "Review 129: The food was okay, but the service was slow.", "completion": "negative"}
+{"prompt": "Review 130: I will definitely return to this store.", "completion": "positive"}
+{"prompt": "Review 131: The product arrived on time and in good condition.", "completion": "positive"}
+{"prompt": "Review 132: The app crashes frequently.", "completion": "negative"}
+{"prompt": "Review 133: I enjoyed the concert, it was fantastic!", "completion": "positive"}
+{"prompt": "Review 134: The product is defective and needs to be replaced.", "completion": "negative"}
+{"prompt": "Review 135: The customer service was helpful and resolved my issue quickly.", "completion": "positive"}
+{"prompt": "Review 136: I will not use this service again.", "completion": "negative"}
